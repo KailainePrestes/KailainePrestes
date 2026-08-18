@@ -16,13 +16,6 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, criando
 * Git e GitHub
 * React
 
-### Conhecimentos em desenvolvimento
-
-* Node.js
-* Express
-* MySQL
-* APIs REST
-
 ## 📚 Atualmente estudando
 
 * Desenvolvimento Front-end
