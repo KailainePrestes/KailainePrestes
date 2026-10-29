@@ -6,24 +6,21 @@ Estou estudando desenvolvimento de software e construindo minha base em **HTML, 
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, criando projetos práticos e aprendendo a transformar ideias em aplicações funcionais e interfaces responsivas.
 
-## 🚀 Tecnologias e ferramentas
+🚀 Tecnologias
 
-### Atualmente estudando
+HTML5
+*CSS3
+*JavaScript
+*Git e GitHub
+*React (em aprendizado)
 
-* HTML5
-* CSS3
-* JavaScript
-* Git e GitHub
-* React
+📚 Aprendizado atual
 
-## 📚 Atualmente estudando
-
-* Desenvolvimento Front-end
-* JavaScript
-* Responsividade
-* React
-* Git e GitHub
-* Boas práticas de desenvolvimento
+*Desenvolvimento Front-end
+*JavaScript e manipulação do DOM
+*Criação de interfaces responsivas
+*Componentes e fundamentos do React
+*Boas práticas de desenvolvimento
 
 ## 💼 Projetos
 
