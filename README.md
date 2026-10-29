@@ -8,7 +8,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, criando
 
 🚀 Tecnologias
 
-HTML5
+*HTML5
 *CSS3
 *JavaScript
 *Git e GitHub
