@@ -9,17 +9,25 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, criando
 🚀 Tecnologias
 
 *HTML5
+
 *CSS3
+
 *JavaScript
+
 *Git e GitHub
+
 *React (em aprendizado)
 
 📚 Aprendizado atual
 
 *Desenvolvimento Front-end
+
 *JavaScript e manipulação do DOM
+
 *Criação de interfaces responsivas
+
 *Componentes e fundamentos do React
+
 *Boas práticas de desenvolvimento
 
 ## 💼 Projetos
